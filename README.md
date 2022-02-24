@@ -6,3 +6,4 @@ Each creature has its own stats: strength, agility, and ultimate. A human ultima
 It can be started using the "R" key on the keyboard. 
 The player has the option of saving the game to a file and then loading it from the file at any time. 
 The game has an event commentator in the form of logs on the console.
+Programming language: Java
